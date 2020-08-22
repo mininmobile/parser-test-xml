@@ -1,0 +1,19 @@
+{
+  "name": "parser-test-xml",
+  "version": "1.0.0",
+  "description": "teaching myself to write a xml parser",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mininmobile/parser-test-xml.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mininmobile/parser-test-xml/issues"
+  },
+  "homepage": "https://github.com/mininmobile/parser-test-xml#readme"
+}
